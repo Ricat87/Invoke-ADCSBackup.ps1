@@ -1,4 +1,7 @@
 # Invoke-ADCSBackup.ps1
+
+I wrote a script to back up Active Directory Certificate Services, and I just wanted to share it in case it would be useful to anyone else. 
+I am no PowerShell expert, but I am always learning.
     
     .SYNOPSIS
     This script, when run locally on an Active Directory Certificate Services server, will perform one-time or weekday rolling backups (default) of everything necessary to restore AD CS with the exception of the CA's private key.

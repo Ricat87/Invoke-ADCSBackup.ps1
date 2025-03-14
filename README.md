@@ -97,13 +97,12 @@ I am no PowerShell expert, but I am always learning.
     Seeing it log to the Application event log, I decided to learn how to create a custom event log for my script.
     Nothing in my script is copied directly from this script.
 
-    2) A batch file provided to me by Microsoft/JDA Partners Technical Service,
-    itself adapted from a CC BY SA 4.0 licensed batch file from Sentella.info (which is seemingly defunct in January 2025 as I cannot find it):
+    2) A batch file provided to me by Microsoft/JDA Partners Technical Service:
 
     #Script header:
     BM_DR_CABackup_v3.txt
-    :: Sentella BareMetal_DisasterRecovery_CA Backup Utility with Timings - Blame: GTKT 
-    :: This script is Modified and ©2022 Sentella.info to build and keep copy of the CA configuration
+    :: BareMetal_DisasterRecovery_CA Backup Utility with Timings - Blame: GTKT 
+    :: This script is Modified and ©GTKT to build and keep copy of the CA configuration
     :: Free to use or modify as long as the Original Copyright and this notice are fully included
     :: CC BY SA 4.0
 
